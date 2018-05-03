@@ -15,7 +15,13 @@ If this is true for the given inputs, return the string true, otherwise return e
 
 * Command to Execute:
     ```
-	rbenv install 2.5.0
+	ruby app.rb 
     ```
+    
+* Command to run test cases:
+    ```
+	rspec
+    ```
+        
     
     
